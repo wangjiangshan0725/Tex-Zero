@@ -3,8 +3,8 @@
 
 # Does Native 3D Texture Generation Necessarily Require 3D Assets for Training?
 
-Jiangshan Wang<sup>1,2</sup> &nbsp;&nbsp; Zeqiang Lai<sup>1,2,†</sup> &nbsp;&nbsp; Jiayi Guo<sup>3</sup> &nbsp;&nbsp; Xin Yang<sup>2</sup> &nbsp;&nbsp; Xin Huang<sup>2</sup>  
-Jiarui Chen<sup>2,4</sup> &nbsp;&nbsp; Ziheng Ouyang<sup>2,5</sup> &nbsp;&nbsp; Chunchao Guo<sup>2,\*</sup> &nbsp;&nbsp; Xiangyu Yue<sup>1,\*</sup>
+Jiangshan Wang<sup>1,2</sup> &nbsp;&nbsp; Zeqiang Lai<sup>1,2†</sup> &nbsp;&nbsp; Jiayi Guo<sup>3</sup> &nbsp;&nbsp; Xin Yang<sup>2</sup> &nbsp;&nbsp; Xin Huang<sup>2</sup>  
+Jiarui Chen<sup>2,4</sup> &nbsp;&nbsp; Ziheng Ouyang<sup>2,5</sup> &nbsp;&nbsp; Chunchao Guo<sup>2\*</sup> &nbsp;&nbsp; Xiangyu Yue<sup>1\*</sup>
 
 <sup>1</sup>MMLab, CUHK &nbsp;&nbsp; <sup>2</sup>Tencent Hunyuan &nbsp;&nbsp; <sup>3</sup>Tsinghua University  
 <sup>4</sup>Fudan University &nbsp;&nbsp; <sup>5</sup>Nankai University
