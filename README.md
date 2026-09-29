@@ -3,11 +3,12 @@
 
 # Does Native 3D Texture Generation Necessarily Require 3D Assets for Training?
 
-Jiangshan Wang<sup>1,2</sup> &nbsp;&nbsp; Zeqiang Lai<sup>1,2†</sup> &nbsp;&nbsp; Jiayi Guo<sup>3</sup> &nbsp;&nbsp; Xin Yang<sup>2</sup> &nbsp;&nbsp; Xin Huang<sup>2</sup>  
-Jiarui Chen<sup>2,4</sup> &nbsp;&nbsp; Ziheng Ouyang<sup>2,5</sup> &nbsp;&nbsp; Chunchao Guo<sup>2\*</sup> &nbsp;&nbsp; Xiangyu Yue<sup>1\*</sup>
+<a href="https://scholar.google.com/citations?user=HoKoCv0AAAAJ">Jiangshan Wang</a><sup>1,2</sup> &nbsp;&nbsp; <a href="https://zeqiang-lai.github.io/">Zeqiang Lai</a><sup>1,2†</sup> &nbsp;&nbsp; <a href="https://www.jiayiguo.net/">Jiayi Guo</a><sup>3</sup> &nbsp;&nbsp; Xin Yang<sup>2</sup> &nbsp;&nbsp; Xin Huang<sup>2</sup>  
+<a href="https://jrchennnn.github.io/">Jiarui Chen</a><sup>2,4,5</sup> &nbsp;&nbsp; <a href="https://scholar.google.com/citations?user=Qu-j8d8AAAAJ">Ziheng Ouyang</a><sup>2,6</sup> &nbsp;&nbsp; Chunchao Guo<sup>2\*</sup> &nbsp;&nbsp; <a href="https://xyue.io/">Xiangyu Yue</a><sup>1\*</sup>
+
 
 <sup>1</sup>MMLab, CUHK &nbsp;&nbsp; <sup>2</sup>Tencent Hunyuan &nbsp;&nbsp; <sup>3</sup>Tsinghua University  
-<sup>4</sup>Fudan University &nbsp;&nbsp; <sup>5</sup>Nankai University
+<sup>4</sup>Fudan University &nbsp;&nbsp;  <sup>5</sup>Shanghai Innovation Institute &nbsp;&nbsp; <sup>6</sup>Nankai University
 
 <sup>†</sup>Project lead &nbsp;&nbsp; <sup>*</sup>Corresponding authors
 
@@ -48,7 +49,7 @@ Each 2D image is first represented as a colored plane in 3D space. We divide it 
   <img src="method.png" alt="Tex-Zero VAE and DiT architecture" width="100%">
 </p>
 
-The Tex-Zero VAE learns a unified latent representation for image-derived 3D samples and real 3D textures. The Tex-Zero DiT encodes multi-view images as 3D planes, combines their appearance features with geometry conditions, and generates texture latents through flow matching.
+The Tex-Zero VAE learns a unified latent representation for 2D images and real 3D textures. The Tex-Zero DiT encodes multi-view images as 3D planes, combines their appearance features with geometry conditions, and generates texture latents through flow matching.
 
 ## Results
 
