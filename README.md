@@ -12,6 +12,7 @@
 
 <sup>†</sup>Project lead &nbsp;&nbsp; <sup>*</sup>Corresponding authors
 
+[![arXiv](https://img.shields.io/badge/arXiv-TexZero-b31b1b.svg)](https://arxiv.org/abs/2609.34621)
 </div>
 
 <p align="center">
@@ -61,4 +62,14 @@ Qualitative comparisons show that Tex-Zero preserves finer appearance details an
 
 ## Citation
 
-Citation information will be added soon.
+```
+@misc{wang2026doesnative3dtexture,
+      title={Does Native 3D Texture Generation Necessarily Require 3D Assets for Training?}, 
+      author={Jiangshan Wang and Zeqiang Lai and Jiayi Guo and Xin Yang and Xin Huang and Jiarui Chen and Ziheng Ouyang and Chunchao Guo and Xiangyu Yue},
+      year={2026},
+      eprint={2609.34621},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2609.34621}, 
+}
+```
